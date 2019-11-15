@@ -18,7 +18,7 @@ To access data in a stack, we use the following operations:
 + isEmpty(): return True if and only if the stack is empty
 
 Adding or removing an item from a stack takes constant time. However, stacks do not offer constant time access to the *n-th* element.
-A sample implementation of a stack can be found in [*stack.py*](https://github.com/Mokeira/dataStructures/stack/stack.py)
+A sample implementation of a stack can be found in [*stack.py*](https://github.com/Mokeira/dataStructures/blob/master/stack/stack.py)
 
 ### Next Steps
 + Add test file for stack.py
