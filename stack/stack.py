@@ -29,7 +29,7 @@ class Stack():
 
     def isEmpty(self): #Return true if and only if stack is empty
         return self.data == None
-
+#random comment to test
 
 if __name__ == '__main__':
     sample_stack = Stack(4)
